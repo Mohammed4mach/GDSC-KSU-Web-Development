@@ -1,11 +1,3 @@
-<style>
-	*
-	{
-		scroll-behavior: smooth;
-		scroll-padding-top: 20px;
-	}
-</style>
-
 <h1 style="text-align:center">GDSC-KUS-Web-Developing</h1>
 
 ![GDSC-KUS-Logo](./assets/logo.png)
