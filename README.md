@@ -8,6 +8,7 @@
 
 - **How The Internet Works**
 - **World Wide Web**
+- **Web development core concepts**
 - **Basics of HTML**
 - **Basics of CSS**
 - **Basics of JavaScript**
@@ -47,3 +48,5 @@
 # Introduction to Accessability
 
 # Introduction to SEO
+
+# Introduction to git and github
