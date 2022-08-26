@@ -2,6 +2,8 @@
 
 ![GDSC-KUS-Logo](./assets/logo.png)
 
+# Objectives
+
 # Topics
 
 - **How The Internet Works**
