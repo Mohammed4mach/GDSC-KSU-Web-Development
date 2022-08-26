@@ -1,3 +1,11 @@
+<style>
+	*
+	{
+		scroll-behavior: smooth;
+		scroll-padding-top: 20px;
+	}
+</style>
+
 <h1 style="text-align:center">GDSC-KUS-Web-Developing</h1>
 
 ![GDSC-KUS-Logo](./assets/logo.png)
@@ -13,10 +21,10 @@
 - **Basics of JavaScript**
 - **Front End Development**
 
-	- [HTML / HTML5](#html-/-html5)
-	- [CSS / CSS3](#css-/-css3)
+	- [HTML and HTML5](#html-and-html5)
+	- [CSS and CSS3](#css-and-css3)
 	- [JavaScript](#javascript)
-	- [How Browsers Render web pages](#how-browser-render-a-web-page)
+	- [How Browsers Render web pages](#how-browsers-render-web-pages)
 
 - **Back End Development**
 - **Introduction to Accessability**
@@ -34,9 +42,9 @@
 
 # Front End Development
 
-## HTML / HTML5
+## HTML and HTML5
 
-## CSS / CSS3
+## CSS and CSS3
 
 ## JavaScript
 
