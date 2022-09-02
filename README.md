@@ -123,11 +123,11 @@
 
 ## Challenge Time !
 
-- [] [QR code component - Frontend Mentor](https://bit.ly/3TzuRn9) (Newbie)
-- [] [Profile card component - Frontend Mentor](https://bit.ly/3cB0jRq) (Newbie)
-- [] [Four card feature section - Frontend Mentor](https://bit.ly/3edkyF4) (Newbie)
-- [] [Testimonials grid section - Frontend Mentor](https://bit.ly/3KDzhW5) (Junior)
-- [] [Huddle landing page with curved sections - Frontend Mentor ](https://bit.ly/3q62z6k) (Junior)
+- [ ] [QR code component - Frontend Mentor](https://bit.ly/3TzuRn9) (Newbie)
+- [ ] [Profile card component - Frontend Mentor](https://bit.ly/3cB0jRq) (Newbie)
+- [ ] [Four card feature section - Frontend Mentor](https://bit.ly/3edkyF4) (Newbie)
+- [ ] [Testimonials grid section - Frontend Mentor](https://bit.ly/3KDzhW5) (Junior)
+- [ ] [Huddle landing page with curved sections - Frontend Mentor ](https://bit.ly/3q62z6k) (Junior)
 
 ## JavaScript
 
@@ -142,14 +142,14 @@
 
 ## Challenge Time !
 
-- [] [Interactive rating component - Frontend Mentor](https://bit.ly/3CQ34Zw) (Newbie)
-- [] [Ping single column - Frontend Mentor](https://bit.ly/3TAFi9W) (Newbie)
-- [] [Expenses chart component - Frontend Mentor](https://bit.ly/3AIp4mv) (Junior)
-- [] [Sunnyside agency landing page - Frontend Mentor](https://bit.ly/3B8Kb2O) (Junior)
-- [] [Calculator app - Frontend Mentor](https://bit.ly/3KErKGv) (Intermediate)
-- [] [Todo app - Frontend Mentor](https://bit.ly/3CMgeXE) (Intermediate)
-- [] [IP Address Tracker - Frontend Mentor](https://bit.ly/3Rx8vkc) (Intermediate)
-- [] [Job listings with filtering - Frontend Mentor](https://bit.ly/3AAjnag) (Intermediate)
+- [ ] [Interactive rating component - Frontend Mentor](https://bit.ly/3CQ34Zw) (Newbie)
+- [ ] [Ping single column - Frontend Mentor](https://bit.ly/3TAFi9W) (Newbie)
+- [ ] [Expenses chart component - Frontend Mentor](https://bit.ly/3AIp4mv) (Junior)
+- [ ] [Sunnyside agency landing page - Frontend Mentor](https://bit.ly/3B8Kb2O) (Junior)
+- [ ] [Calculator app - Frontend Mentor](https://bit.ly/3KErKGv) (Intermediate)
+- [ ] [Todo app - Frontend Mentor](https://bit.ly/3CMgeXE) (Intermediate)
+- [ ] [IP Address Tracker - Frontend Mentor](https://bit.ly/3Rx8vkc) (Intermediate)
+- [ ] [Job listings with filtering - Frontend Mentor](https://bit.ly/3AAjnag) (Intermediate)
 
 ## How Browsers Render web pages
 
