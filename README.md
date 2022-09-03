@@ -79,14 +79,21 @@
 | [HTML Crash Course - Codv Academy](https://bit.ly/3wAQiue)   | 1h 30m         | Arabic   | Video    |
 | [HTML - Mozilla Developer Network](https://mzl.la/3cjgUZS)   | 30m            | English  | Article  |
 
+## Sessions
+
+| Link                                              | Category              |
+|---------------------------------------------------|-----------------------|
+| [HTML Basics Presentation](/sessions/HTML-basics/)| Presentation Material |
+
+
 # Basics of CSS
 
 ## Resources
 
 | Resource                                                    | Estimated Time | Language | Category |
 | ----------------------------------------------------------- | -------------- | -------- | -------- |
-| [CSS Crash Course - Traversy Media](https://bit.ly/2kDZGrl) | 1h             | English  | Video   |
-| [CSS Crash Course - Codv Academy](https://bit.ly/3TjYdpq)   | 2h 00m         | Arabic   | Video   |
+| [CSS Crash Course - Traversy Media](https://bit.ly/2kDZGrl) | 1h             | English  | Video    |
+| [CSS Crash Course - Codv Academy](https://bit.ly/3TjYdpq)   | 2h 00m         | Arabic   | Video    |
 | [CSS - Mozilla Developer Network](https://mzl.la/3AQtIQI)   | 35m            | English  | Article  |
 
 # Basics of JavaScript
@@ -95,8 +102,8 @@
 
 | Resource                                                        | Estimated Time | Language | Category |
 | --------------------------------------------------------------- | -------------- | -------- | -------- |
-| [JS Crash Course - Traversy Media](https://bit.ly/2LAxTa8)      | 1h 40m         | English  | Video   |
-| [JS Crash Course - freeCodeCamp Arabic](https://bit.ly/3wz72lw) | 3h 12m         | Arabic   | Video   |
+| [JS Crash Course - Traversy Media](https://bit.ly/2LAxTa8)      | 1h 40m         | English  | Video    |
+| [JS Crash Course - freeCodeCamp Arabic](https://bit.ly/3wz72lw) | 3h 12m         | Arabic   | Video    |
 | [JS - Mozilla Developer Network](https://mzl.la/3wyerS2)        | 1h 30m         | English  | Article  |
 
 # Front End Development
@@ -172,7 +179,7 @@
 | Resource                                                                   | Estimated Time |   Language  | Category |
 | ---------------------------------------------------------------------------| -------------- | ----------- | -------- |
 | [Accessibility - W3C](https://bit.ly/3KI9CeB)                              |     10m        | English     |  Article |
-| [Introduction to Web Accessibility - W3C](https://bit.ly/2L7hGX8)           |     12m        | English     |  Article |
+| [Introduction to Web Accessibility - W3C](https://bit.ly/2L7hGX8)          |     12m        | English     |  Article |
 | [What is accessibility? - MDN](https://mzl.la/2FSGvWc)                     |     25m        | English     |  Article |
 | [Accessibility Intro - Elzero](https://bit.ly/3AHjoJE)                     |     8m         | Arabic      |  Video   |
 | [A WCAG Overview - Eric Eggert](https://bit.ly/3QpBF45)                    |     14m        | English     |  Video   |
@@ -184,7 +191,7 @@
 
 | Resource                                                                    | Estimated Time |   Language  | Category |
 | ----------------------------------------------------------------------------| -------------- | ----------- | -------- |
-| [SEO Starter Guide - Google](https://bit.ly/3RtGsSH)                      |     40m        | English     | Tutorial |
+| [SEO Starter Guide - Google](https://bit.ly/3RtGsSH)                        |     40m        | English     | Tutorial |
 | [The Web Developer's SEO Cheat Sheet -  MDN](https://bit.ly/3QavGzQ)        |     35m        | English     |  Article |
 | [10 SEO Tips - webfx](https://bit.ly/3CRWQbO)                               |     10m        | English     |  Article |
 | [SEO for Developers - Fireship](https://bit.ly/3AHm1Lw)                     |     12m        | English     |  Video   |
