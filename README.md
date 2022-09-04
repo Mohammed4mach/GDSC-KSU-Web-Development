@@ -1,4 +1,4 @@
-<h1 style="text-align:center">GDSC KSU Web Developing</h1>
+<h1 style="text-align:center">GDSC KSU Web Development</h1>
 
 ![GDSC-KSU-Logo](./assets/logo.png)
 
