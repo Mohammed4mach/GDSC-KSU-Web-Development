@@ -1,4 +1,4 @@
-<h1 style="text-align:center">GDSC KSU Web Development</h1>
+# GDSC KSU Web Development
 
 ![GDSC-KSU-Logo](./assets/logo.png)
 
@@ -50,6 +50,8 @@
 
   - [Git](#git)
   - [Github](#github)
+
+_______________________________________________________________
 
 # World Wide Web
 
