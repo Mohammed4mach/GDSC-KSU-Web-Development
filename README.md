@@ -83,9 +83,9 @@ _______________________________________________________________
 
 ## Sessions
 
-| Link                                              | Category              |
-|---------------------------------------------------|-----------------------|
-| [HTML Basics Presentation](/sessions/HTML-basics/)| Presentation Material |
+| Link                                              | Category               |
+|---------------------------------------------------|------------------------|
+| [HTML Basics Presentation](/sessions/HTML-basics/)| Presentation Materials |
 
 
 # Basics of CSS
@@ -100,9 +100,9 @@ _______________________________________________________________
 
 ## Sessions
 
-| Link                                              | Category              |
-|---------------------------------------------------|-----------------------|
-| [CSS Basics Presentation](/sessions/CSS-basics/)  | Presentation Material |
+| Link                                              | Category               |
+|---------------------------------------------------|------------------------|
+| [CSS Basics Presentation](/sessions/CSS-basics/)  | Presentation Materials |
 
 
 # Basics of JavaScript
