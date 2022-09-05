@@ -98,6 +98,13 @@ _______________________________________________________________
 | [CSS Crash Course - Codv Academy](https://bit.ly/3TjYdpq)   | 2h 00m         | Arabic   | Video    |
 | [CSS - Mozilla Developer Network](https://mzl.la/3AQtIQI)   | 35m            | English  | Article  |
 
+## Sessions
+
+| Link                                              | Category              |
+|---------------------------------------------------|-----------------------|
+| [CSS Basics Presentation](/sessions/CSS-basics/)  | Presentation Material |
+
+
 # Basics of JavaScript
 
 ## Resources
