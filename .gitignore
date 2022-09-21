@@ -1,0 +1,10 @@
+### ignore all videos
+*.mp4
+*.mkv
+
+# ignore ALL .log files
+*.log
+
+# ignore ALL files in ANY directory named temp
+temp/
+

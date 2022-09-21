@@ -1,0 +1,60 @@
+1-link your website with relevant websites as backup links to your website
+2-to explain the product you offer in meaningful terms so the engine apper it in the correct serch query of a user
+3- technical SEO :
+
+*Search engines like Google and Bing use crawlers, sometimes also called bots or spiders, to gather information about all the content they can find on the internet.
+ The crawler starts from a known web page and follows internal links to pages within that site as well as external links to pages on other sites.
+
+*SEO attracts lots of high-quality user traffic
+
+*At a page level, if you want search engines to index a URL, it generally needs to return a 200 HTTP response status code. 
+ Obviously, you want to avoid 4xx and 5xx errors.
+ A 3xx redirect code is less lethal, but it typically means the URL you're auditing isn't the one that's going to rank.
+
+*Typically, your high-priority pages should be discoverable within 4–5 clicks of the homepage.
+ This is part of your site architecture.
+ You also want to avoid "orphaned pages" — which are pages not linked to by any internal URLs on your site.
+
+*keep your URLs as simple as possible. Typically this means:
+ Using shorter, human-readable URLs whenever possible
+ Avoiding unnecessary parameters, such as session IDs or sorting parameters
+ Broken relative links that cause "infinite spaces" (never-ending URLs)
+
+*Content can be rendered with basic JavaScript
+
+*Meta and structured data
+ Your URL should contain a single title tag, with text describing your page.
+ Web browsers typically display the title in the tab heading
+
+*Title contains important keywords visible in first 60 characters
+
+*The final check of your title tag is to make sure that it's not duplicated across your site
+
+*Favicon defined
+ <link rel="shortcut icon" href="/path/to/favicon.ico">
+
+*Structured markup
+ Whether it's as simple as article markup, identifying an author and/or an organization, product reviews, or even recipe markup
+
+*recommend using headings to organize your content in a smart, logical way.
+ Additionally, a single h1 is still recommended for accessibility, so it's a good idea if your headline follows this rule.
+
+*Content isn't loaded in an iFrame
+ In short, sometimes it's necessary or convenient to use iFrames, but you should avoid them whenever possible.
+
+*Content doesn't violate Google's Quality Guidelines
+ No sneaky redirects,Limit user-generated spam
+ Popups and banners that get in the way of content are a common feature of websites, especially on mobile.
+
+terms : 
+1-SEO is an field of search marketing.
+2-Search engines crawl websites to discover content and store it in databases — a process known as indexation.
+
+
+
+
+
+
+refs :
+https://moz.com/seo-audit-checklist
+https://moz.com/seo
